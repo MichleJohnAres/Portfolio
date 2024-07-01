@@ -1,0 +1,83 @@
+[
+  {
+    "role": "Senior Web3 Full stack Engineer",
+    "company": "Pixelcraft Studios",
+    "company_url": "https://pixelcraftstudio.com/",
+    "start_date": "September 2021",
+    "end_date": "May 2024",
+    "duration": "",
+    "location": "Remote",
+    "work_type": "Remote",
+    "role_description": [
+      "Designed and developed decentralized applications (dApps) like 'aavegotchi-minigames' using Ethereum and Web3.js, facilitating secure peer-to-peer transactions.",
+      "Implemented smart contracts in 'aavegotchi' project using Solidity, ensuring code quality and security audits to mitigate vulnerabilities. ",
+      "Integrated decentralized storage solutions (IPFS) for efficient data management and retrieval.",
+      "Led a team of developers in the creation of a decentralized apps: 'aavegotchi'",
+      "Developed RESTful APIs and backend services in Node.js for seamless interaction between front-end and blockchain components. "
+    ],
+    "tech_stack": [
+      "Web3.js",
+      "HardHat",
+      "Wagmi",
+      "MongoDb",
+      "Nodejs",
+      "WebSockets",
+      "Shadcn UI",
+      "Materia UI",
+      "Tailwind",
+      "Vite"
+    ]
+  },
+  {
+    "role": "Senior Frontend Developer",
+    "company": "Pixelcraft Studios",
+    "company_url": "ttps://pixelcraftstudio.com/",
+    "start_date": "November 2019",
+    "end_date": "September 2021",
+    "duration": "",
+    "location": "Remote",
+    "work_type": "Remote",
+    "role_description": [
+      "Led the frontend development team in designing and implementing a highly interactive and responsive web application using React.js, resulting in a 30% increase in user engagement.",
+      "Collaborated with UX/UI designers to create visually appealing and intuitive user interfaces, ensuring a seamless user experience across multiple devices and browsers.",
+      "Implemented advanced state management solutions using Redux and Context API, enhancing the scalability and maintainability of the application.",
+      "Optimized frontend performance by reducing load times and improving code efficiency, leading to a 40% increase in application speed.",
+      "Mentored junior developers, conducting code reviews and providing guidance on best practices and emerging technologies."
+    ],
+    "tech_stack": [
+      "Vite",
+      "JavaScript",
+      "Next",
+      "CSS",
+      "Tailwind",
+      "SCSS",
+      "React-query"
+    ]
+  },
+  {
+    "role": "Junior Front-end Developer",
+    "company": "Phoenix ",
+    "company_url": "https://www.thephoenixgroup.com/",
+    "start_date": "September 2018",
+    "end_date": "October 2019",
+    "duration": "",
+    "location": "Remote",
+    "work_type": "Remote",
+    "role_description": [
+      "Created responsive and interactive user interfaces ensuring cross-browser compatibility and performance optimization.",
+      "Improved page load times and overall application performance by 160% through techniques such as lazy loading, code splitting, and optimizing assets.",
+      "Worked closely with backend developers to integrate front-end components with RESTful APIs.",
+      "Designed and implemented reusable UI components using frameworks like Bootstrap and Material-UI.",
+      "Conducted A/B testing and user feedback analysis to iterate and improve UI/UX design."
+    ],
+    "tech_stack": [
+      "Vuejs",
+      "Nuxtjs",
+      "Nodejs",
+      "Parse server",
+      "JavaScript",
+      "Tailwindcss",
+      "API Development"
+    ]
+  }
+]
